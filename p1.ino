@@ -3,7 +3,7 @@
  *
  * The intended use was to pop a balloon when a door opened.
  *
- * Copyright 2018 Josh LeFevre
+ * Copyright 2018 Josh LeFevre, Nathan Serafin
  *
  * Permission is hereby granted, free of charge, to any person obtaining a
  * copy of this software and associated documentation files (the "Software"),
